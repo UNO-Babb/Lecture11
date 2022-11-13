@@ -9,6 +9,7 @@ SimPy is a library framework for [discrete-event simulations](https://en.wikiped
 
 
 First we need to install the SimPy libraries
+**This is only if you needed it on your home computer. Replit will do this for us.**
 ```
 pip install simpy
 ```
@@ -17,7 +18,7 @@ Simpy uses a process known as a **generator**. These processes have the ability 
 ### Our first process
 We will use the example of a car process. The car will be driving and parking for a while.
 
-Code these examples in **SimPyTest.py** 
+Code these examples in **SimPyTest.py**
 ```
 def car(env):
   print('Start parking at %d' % env.now)
