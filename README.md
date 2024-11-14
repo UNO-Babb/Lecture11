@@ -9,7 +9,7 @@ SimPy is a library framework for [discrete-event simulations](https://en.wikiped
 
 
 First we need to install the SimPy libraries
-**This is only if you needed it on your home computer. Replit will do this for us.**
+**This is only if you needed it on your home computer.**
 ```
 pip install simpy
 ```
