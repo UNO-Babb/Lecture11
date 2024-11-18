@@ -8,8 +8,7 @@ SimPy is a library framework for [discrete-event simulations](https://en.wikiped
 - Project Planning
 
 
-First we need to install the SimPy libraries
-**This is only if you needed it on your home computer.**
+First we need to install the SimPy libraries. In your CodeSpace terminal, type: 
 ```
 pip install simpy
 ```
